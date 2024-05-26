@@ -1,0 +1,3 @@
+﻿  here.c
+C:\Users\35316\Desktop\.vs\new001\new001\here.c(17,3): warning C4013: “Sleep”未定义；假设外部返回 int
+  new001.vcxproj -> C:\Users\35316\Desktop\.vs\new001\x64\Debug\new001.exe
